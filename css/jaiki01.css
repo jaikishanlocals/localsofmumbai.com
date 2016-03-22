@@ -50,13 +50,13 @@
 	      .logo a {}
 	    }
 
-	    .logo-magictype{float:left;} 
-		.logo-magictype a {background:url(../images/mm-magictype-logo.png) 0 0 no-repeat; width: 200px; height: 72px;outline: none; text-indent: -5000px; display: block; }
-		.logo-magictype a:hover{background-position: 0 -36px;}
-		.logo-magictype a.active{background-position: 0 -72px;}
+	    .logo-localsofmumbai{float:left;} 
+		.logo-localsofmumbai a {background:url(../images/mm-localsofmumbai-logo.png) 0 0 no-repeat; width: 200px; height: 72px;outline: none; text-indent: -5000px; display: block; }
+		.logo-localsofmumbai a:hover{background-position: 0 -36px;}
+		.logo-localsofmumbai a.active{background-position: 0 -72px;}
 		@media (max-width: 960px) 
 		{
-	      .logo-magictype a {}
+	      .logo-localsofmumbai a {}
 	    }
 
 
